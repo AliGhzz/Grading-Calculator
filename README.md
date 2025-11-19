@@ -10,7 +10,7 @@
 
 <h2>✨ Features</h2>
 <ul>
-  <li>20 predefined values (1.00 → 5.00 in 0.25 increments) 🔢</li>
+  <li>20 predefined values (0.25 → 5.00 in 0.25 increments) 🔢</li>
   <li>Clear (C) 🧹, Delete (DEL) ❌, Add (+) ➕, and Subtract (−) ➖ controls</li>
   <li>New entries always appear on the right for quick visibility 👀</li>
   <li>Clean UI optimized for Android and desktop 📱💻</li>
@@ -18,18 +18,25 @@
 
 <h2>📸 Screenshots</h2>
 
-<div style="display: flex; gap: 10px;">
-  <img 
-    src="https://github.com/user-attachments/assets/61881d7b-74b8-49d3-8f95-c7caa34b3093"
-    alt="Screenshot 1"
-    style="width: 50%; border: 2px solid #ccc; border-radius: 8px;"
-  />
-  <img 
-    src="https://github.com/user-attachments/assets/0239b870-9884-44b9-8754-489d9e434524"
-    alt="Screenshot 2"
-    style="width: 50%; border: 2px solid #ccc; border-radius: 8px;"
-  />
-</div>
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github.com/user-attachments/assets/61881d7b-74b8-49d3-8f95-c7caa34b3093"
+        alt="Screenshot 1"
+        width="300"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github.com/user-attachments/assets/0239b870-9884-44b9-8754-489d9e434524"
+        alt="Screenshot 2"
+        width="300"
+      />
+    </td>
+  </tr>
+</table>
+
 
 <h2>⚙️ How It Works</h2>
 <p>
